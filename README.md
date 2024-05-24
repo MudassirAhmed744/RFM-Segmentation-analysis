@@ -7,6 +7,17 @@ readme_content = """
 
 This repository contains the code, analysis, and visualizations for performing RFM (Recency, Frequency, Monetary) segmentation on a sales dataset. The goal of this project is to categorize customers based on their purchasing behaviors, allowing for targeted marketing strategies and better customer relationship management.
 
+
+
+![Designer (1)](https://github.com/MudassirAhmed744/RFM-Segmentation-analysis/assets/73222691/c2db2b97-0dd1-4430-81f1-e41a9e4b479b)
+
+
+
+
+
+
+
+
 ## Dataset
 
 The dataset, `sales_data_sample`, includes sales transactions with various attributes such as:
