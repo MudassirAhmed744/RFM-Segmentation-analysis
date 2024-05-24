@@ -67,7 +67,7 @@ The project includes Tableau visualizations to provide a more intuitive understa
 
 ### How to Access the Visualizations
 
-1. **Tableau Public**: You can access the Tableau visualizations via Tableau Public at [Your Tableau Public Link](https://public.tableau.com/app/profile/mudassir.ahmed6202/viz/RFMSegmentationAnalysis_17165820239440/Indroduction).
+1. **Tableau Public**: You can access the Tableau visualizations via Tableau Public at [Link](https://public.tableau.com/app/profile/mudassir.ahmed6202/viz/RFMSegmentationAnalysis_17165820239440/Indroduction).
 2. **Tableau Workbooks**: The Tableau workbook files (`.twb` or `.twbx`) are included in the `visualizations` folder of this repository.
 
 ## Repository Structure
